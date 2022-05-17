@@ -11,7 +11,7 @@
 
 <br>
 
-- 👨🏽‍💻 I’m currently working on backends project in Zé Delivery by AB INBEV;
+- 👨🏽‍💻 I’m currently work on Zé Delivery an startup from AB INBEV (world's biggest brewery) as a Senior Software Engineer;
 - I also just love everything about investments;
 - I am a software developer passionate about building solid, scalable, reliable, highly available and secure applications, With more than 8 years of experience in the technology field, I have had the opportunity to work with high performance teams on several different types of segments, projects and teams, such as financial, payment methods/solutions and reimbursement calculations.
 <br>
