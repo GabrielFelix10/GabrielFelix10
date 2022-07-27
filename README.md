@@ -20,7 +20,7 @@ I really love learn investments topics(💸), swimming(🏊🏾), computer games
 <table>
   <tr>
       <td><img src="https://cdn.iconscout.com/icon/free/png-64/amazon-aws-3521268-2944772.png?raw=true" width="200"></td>
-      <td><img src="https://symbols.getvecta.com/stencil_97/45_terraform-icon.0fedccc574.svg?raw=true" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/terminal-5274596-4397543.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/docker-13-1175230.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/java-22-225997.png?raw=true" width="200"></td>
