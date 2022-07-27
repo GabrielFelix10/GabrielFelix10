@@ -6,8 +6,7 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=gabrielfelix10.gabrielfelix10" />
 <img align="right" src="https://img.shields.io/github/followers/gabrielfelix10?label=Follow&style=social" />
 <h1 align="center"></h1>
-<br>
-<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=gabrielfelix10&count_private=true&show_icons=true&theme=chartreuse-dark"/>
+
 
 <br>
 
