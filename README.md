@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi , I'm a Senior Software Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;8%2B%20years%20of%20coding%20experience;Always%20learning&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=gabrielfelix10.gabrielfelix10" />
@@ -14,7 +14,7 @@
 <br>
 ### Hobbies and interests ✨
 <br>
-I really love learn investments topics(💸), swimming(🏊🏾), computer games(🎮)
+I really love learn investments topics(💸), surfing🏾🏄‍♂️), computer games(🎮)
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
