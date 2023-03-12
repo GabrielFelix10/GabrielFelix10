@@ -10,7 +10,7 @@
 
 <br>
 
- I am a software developer passionate about building solid, scalable, reliable, highly available and secure applications, With more than 8 years of experience in the technology field, I have had the opportunity to work with high performance teams on several different types of segments, projects and teams, such as financial, payment methods/solutions and reimbursement calculations.
+ I am a software developer passionate about building solid, scalable, reliable, highly available and secure applications, With more than 11 years of experience in the technology field, I have had the opportunity to work with high performance teams on several different types of segments, projects and teams, such as financial, payment methods/solutions and reimbursement calculations.
 <br>
 ### Hobbies and interests ✨
 <br>
